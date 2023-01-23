@@ -13,7 +13,7 @@ if (!empty($_SESSION["tid"])) {
             header("Location: schedule.php");
         }
     }
-    #print_r($class);
+
 }
 ?>
 <!DOCTYPE html>
